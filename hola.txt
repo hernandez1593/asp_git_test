@@ -1,1 +1,5 @@
 hola mundo
+
+git branch ("name")
+git checkout (name) = cambiar de branch
+mkdir (name) = crear nueva carpeta para el branch
